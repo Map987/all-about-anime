@@ -514,7 +514,7 @@ from YukinoAi/FansubbingAndEncoding.GuidesIndex.markdown
 
   * 待办事项：点爬行、带状
 
-* avisynth：
+* 框架：
 
     * [AviSynth](http://avisynth.nl/index.php/Main_Page)：
 
@@ -578,7 +578,8 @@ from YukinoAi/FansubbingAndEncoding.GuidesIndex.markdown
 
 * l33tmeatwad的[VapourSynth 101](http://www.l33tmeatwad.com/vapoursynth101)和[使用滤镜与函数](http://www.l33tmeatwad.com/vapoursynth101/using-filters-functions)。
 
-        * 官方文档的[安装](http://www.vapoursynth.com/doc/installation.html)和[入门指南](http://www.vapoursynth.com/doc/gettingstarted.html)。l33tmeatwad的[VapourSynth安装指南](//www.animemusicvideos.org/forum/viewtopic.php?t=125039)。
+     
+    * 官方文档的[安装](http://www.vapoursynth.com/doc/installation.html)和[入门指南](http://www.vapoursynth.com/doc/gettingstarted.html)。l33tmeatwad的[VapourSynth安装指南](//www.animemusicvideos.org/forum/viewtopic.php?t=125039)。
 
         * eXmendiC的[VapourSynth滤镜](//iamscum.wordpress.com/encoding-stuff/filtering-with-vapoursynth)和[PDF文件](//yukisubs.files.wordpress.com/2017/09/filtering_with_vapoursynth_by_exmendic.pdf)。
 
@@ -596,12 +597,11 @@ from YukinoAi/FansubbingAndEncoding.GuidesIndex.markdown
 
             * [官方插件列表](http://www.vapoursynth.com/doc/pluginlist.html)（包括[BM3D](//github.com/HomeOfVapourSynthEvolution/VapourSynth-BM3D)和[waifu2x-caffe](//github.com/HomeOfVapourSynthEvolution/VapourSynth-Waifu2x-caffe)）。
 
-         
-         * VapourSynth Evolution的[滤镜索引](//github.com/HomeOfVapourSynthEvolution)。
+            * VapourSynth Evolution的[滤镜索引](//github.com/HomeOfVapourSynthEvolution)。
 
-           * HolyWu的[HAvsFunc移植的功能列表](//forum.doom9.org/showthread.php?t=166582)。
+            * HolyWu的[HAvsFunc移植的功能列表](//forum.doom9.org/showthread.php?t=166582)。
 
-           * Irrational-Encoding-Wizardry的[Github首页](//github.com/Irrational-Encoding-Wizardry)。座右铭：“一群自闭症患者为麻瓜改进编码。”
+            * Irrational-Encoding-Wizardry的[Github首页](//github.com/Irrational-Encoding-Wizardry)。座右铭：“一群自闭症患者为麻瓜改进编码。”
 
             * vfrmaniac的[“作品”索引](https://vfrmaniac.fushizen.eu/works/)（包括FFT3DFilter二进制文件）。
 
