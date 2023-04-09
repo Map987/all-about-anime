@@ -1,4 +1,5 @@
-# translate-encode-guide
+#
+关于动漫的一切 translate-encode-guide
 from YukinoAi/FansubbingAndEncoding.GuidesIndex.markdown
 *注意：如果有任何链接损坏或您知道任何更有用的指南，请通过[联系我](//yukisubs.wordpress.com/about)提供建议。
 
